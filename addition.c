@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main(int argc , char * argv[])
 {
-	int a = 10;
+	int a = 1;
 	int b = 0;
 	int result = 0;
 	//scanf("%d %d", &a,&b);
