@@ -9,4 +9,5 @@ int main(int argc , char * argv[])
 	//scanf("%d %d", &a,&b);
 	result = a+b;
 	printf("The result is %d", result);
+	return 0;
 }
