@@ -7,7 +7,7 @@ int main(int argc , char * argv[])
 	int b = 0;
 	int result = 0;
 	//scanf("%d %d", &a,&b);
-	result = a+b;
-	printf("The result is %d", result);
+//	result = a+b;
+	printf("The result is %d", a+b);
 	return 0;
 }
